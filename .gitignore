@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+
+# SwiftPM
+.build/
+
+# iOS
+*.ipa
+Pods/
+
+# User-specific settings
+xcuserdata/
