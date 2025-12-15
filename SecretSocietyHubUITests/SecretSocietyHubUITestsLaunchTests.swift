@@ -1,10 +1,3 @@
-//
-//  SecretSocietyHubUITestsLaunchTests.swift
-//  SecretSocietyHubUITests
-//
-//  Created by Tina Grbo on 13/12/2025.
-//
-
 import XCTest
 
 final class SecretSocietyHubUITestsLaunchTests: XCTestCase {

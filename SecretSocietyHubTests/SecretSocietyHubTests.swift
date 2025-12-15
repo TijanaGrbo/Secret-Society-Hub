@@ -1,10 +1,3 @@
-//
-//  SecretSocietyHubTests.swift
-//  SecretSocietyHubTests
-//
-//  Created by Tina Grbo on 13/12/2025.
-//
-
 import Testing
 @testable import SecretSocietyHub
 
